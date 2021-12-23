@@ -2,6 +2,8 @@
   "name": "my-ap1p",
   "version": "0.1.0",
   "private": true,
+  "homepage": "/org-website",
+
   "dependencies": {
     "@headlessui/react": "^1.4.1",
     "@heroicons/react": "^1.0.5",
