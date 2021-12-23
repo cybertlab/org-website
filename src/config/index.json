@@ -1,0 +1,158 @@
+{
+  "company": {
+    "name": "Cybert Lab",
+    "logo": "/assets/images/logo.png"
+  },
+  "navigation": [
+    {
+      "name": "Product",
+      "href": "product"
+    },
+    {
+      "name": "Team",
+      "href": "features"
+    },
+
+    {
+      "name": "Allocation",
+      "href": "pricing"
+    },
+    {
+      "name": "Roadmap",
+      "href": "roadmap"
+    }
+  ],
+  "callToAction": {
+    "text": "Join Dao",
+    "href": "#"
+  },
+  "mainHero": {
+    "title": "What is ",
+    "subtitle": "Cybert Lab",
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "img": "/assets/images/happyTeam.jpeg",
+    "primaryAction": {
+      "text": "Fund us ->",
+      "href": "#"
+    },
+    "secondaryAction": {
+      "text": "Email us",
+      "href": "mailto:cybertlab88@gmail.com?subject=I like Cybert Lab!"
+    }
+  },
+  "product": {
+    "title": "What are we doing 2021 ?",
+    "items": [
+      {
+        "title": "A decentralized wallet",
+        "description": "A crypto wallet & gateway to blockchain apps. Manage your digital assets.",
+        "img": "/assets/images/product1.jpg"
+      },
+      {
+        "title": "Join the NFTs world",
+        "description": "Release the Green Freak on Mars project on Opensea market",
+        "img": "/assets/images/product2.jpg"
+      },
+      {
+        "title": "NFT/Tokens trading tools ",
+        "description": "Get the latest floor prices, volume, and sale history on NFTs, discover latest trending projects being minted, and see transaction history and portfolio value of any wallet.",
+        "img": "/assets/images/product2.jpg"
+      }
+    ]
+  },
+  "features": {
+    "title": "Latest & greatest ",
+    "subtitle": "All the best technologies out there!",
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "items": [
+      {
+        "name": "John Alonso",
+        "description": "Dev and product manager",
+        "icon": "/assets/images/logo.png"
+      },
+      {
+        "name": "Tailwind",
+        "description": "Tailwind CSS is a highly customizable, low-level CSS framework for quickly creating beautiful designs without any annoying opinionated stylesheet nonsense.",
+        "icon": "/assets/images/tailwindcss.svg"
+      },
+      {
+        "name": "White Alonso",
+        "description": "Next.js is a framework for server-rendered React applications using Next.js.",
+        "icon": "/assets/images/nextjs.svg"
+      },
+      {
+        "name": "Typescript",
+        "description": "TypeScript is a programming language developed and maintained by Microsoft.",
+        "icon": "/assets/images/ts.png"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Allocation",
+    "items": [
+      {
+        "name": "Team",
+        "price": "10%",
+        "priceDetails": "for team members",
+        "features": [
+          "1 user",
+          "Basic Support",
+          "1 GB of storage",
+          "Email support"
+        ]
+      },
+      {
+        "name": "Contributors",
+        "price": "65%",
+        "priceDetails": "for Early Contributors",
+
+        "features": [
+          "5 users",
+          "Priority Support",
+          "10 GB of storage",
+          "Phone and Email support"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "price": "$29",
+        "priceDetails": "per user",
+        "features": [
+          "50 users",
+          "24/7 Support",
+          "100 GB of storage",
+          "Phone and Email support"
+        ]
+      }
+    ]
+  },
+  "about": {
+    "sections": [
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      }
+    ],
+    "socialMedia": {
+      "github": "https://github.com/cybertlab",
+      "twitter": "https://twitter.com/HelenGu2",
+      "discord": "https://discord.gg/xdDPHDypHG"
+    }
+  }
+}
