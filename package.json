@@ -2,7 +2,7 @@
   "name": "my-ap1p",
   "version": "0.1.0",
   "private": true,
-  "homepage": "/org-website",
+  "homepage": "https://cybertlab.github.io/org-website",
 
   "dependencies": {
     "@headlessui/react": "^1.4.1",
