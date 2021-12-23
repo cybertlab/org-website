@@ -1,7 +1,7 @@
 {
   "company": {
     "name": "Cybert Lab",
-    "logo": "/assets/images/logo.png"
+    "logo": "/org-website/assets/images/logo.png"
   },
   "navigation": [
     {
@@ -30,7 +30,7 @@
     "title": "What is ",
     "subtitle": "Cybert Lab",
     "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
-    "file": "/assets/images/happyTeam.jpeg",
+    "file": "/org-website/assets/images/happyTeam.jpeg",
     "primaryAction": {
       "text": "Fund us ->",
       "href": "#"
@@ -46,17 +46,17 @@
       {
         "title": "A decentralized wallet",
         "description": "A crypto wallet & gateway to blockchain apps. Manage your digital assets.",
-        "img": "/assets/images/product1.jpg"
+        "img": "/org-website/assets/images/product1.jpg"
       },
       {
         "title": "Join the NFTs world",
         "description": "Release the Green Freak on Mars project on Opensea market",
-        "img": "/assets/images/product2.jpg"
+        "img": "/org-website/assets/images/product2.jpg"
       },
       {
         "title": "NFT/Tokens trading tools ",
         "description": "Get the latest floor prices, volume, and sale history on NFTs, discover latest trending projects being minted, and see transaction history and portfolio value of any wallet.",
-        "img": "/assets/images/product2.jpg"
+        "img": "/org-website/assets/images/product2.jpg"
       }
     ]
   },
@@ -68,7 +68,7 @@
       {
         "name": "John Alonso",
         "description": "Dev and product manager",
-        "icon": "/assets/images/logo.png"
+        "icon": "/org-website/assets/images/logo.png"
       },
       {
         "name": "Tailwind",
@@ -78,12 +78,12 @@
       {
         "name": "White Alonso",
         "description": "Next.js is a framework for server-rendered React applications using Next.js.",
-        "icon": "/assets/images/nextjs.svg"
+        "icon": "/org-website/assets/images/nextjs.svg"
       },
       {
         "name": "Typescript",
         "description": "TypeScript is a programming language developed and maintained by Microsoft.",
-        "icon": "/assets/images/ts.png"
+        "icon": "/org-website/assets/images/ts.png"
       }
     ]
   },
