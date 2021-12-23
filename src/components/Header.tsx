@@ -2,6 +2,7 @@ import React, { Fragment } from 'react';
 
 import { Popover, Transition } from '@headlessui/react';
 import { MenuIcon, XIcon } from '@heroicons/react/outline';
+// @ts-ignore
 import { Link } from 'react-scroll';
 
 import config from '../config/index.json';
